@@ -1,0 +1,8 @@
+"pt-BR":
+  message:
+    confirm: ¿Estás seguro?
+    listing: Listando
+    errors: Proibido este contato de ser salvo
+    created: Item Creado con succeso!
+    updated: Item actulizado con succeso!
+    destroyed: Item eliminado con succeso!
